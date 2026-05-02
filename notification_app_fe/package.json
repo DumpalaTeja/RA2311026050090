@@ -1,0 +1,1 @@
+{\n  "name": "notification_app_fe",\n  "version": "1.0.0",\n  "dependencies": {\n    "next": "latest",\n    "@mui/material": "latest",\n    "axios": "latest"\n  }\n}
