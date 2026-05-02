@@ -1,0 +1,1 @@
+{\n  "name": "logging_middleware",\n  "version": "1.0.0",\n  "main": "dist/index.js",\n  "types": "dist/index.d.ts",\n  "scripts": {\n    "build": "tsc"\n  },\n  "dependencies": {\n    "axios": "^1.6.0"\n  },\n  "devDependencies": {\n    "typescript": "^5.0.0"\n  }\n}
