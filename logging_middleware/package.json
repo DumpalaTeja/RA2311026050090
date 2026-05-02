@@ -1,1 +1,25 @@
-{\n  "name": "logging_middleware",\n  "version": "1.0.0",\n  "main": "dist/index.js",\n  "types": "dist/index.d.ts",\n  "scripts": {\n    "build": "tsc"\n  },\n  "dependencies": {\n    "axios": "^1.6.0"\n  },\n  "devDependencies": {\n    "typescript": "^5.0.0"\n  }\n}
+{
+  "name": "notification_app_fe",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.13.0",
+    "axios": "^1.4.0",
+    "next": "13.4.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.1.0",
+    "@types/react": "18.2.0",
+    "@types/react-dom": "18.2.0",
+    "typescript": "5.0.0"
+  }
+}

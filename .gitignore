@@ -1,1 +1,23 @@
+# Dependencies
 node_modules/
+
+# Environment variables (keep secrets out of git)
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+.next/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
